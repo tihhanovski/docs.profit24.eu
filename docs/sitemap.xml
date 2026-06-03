@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>None./</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="None"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
         <loc>Nonepurchaseinvoices/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonepurchaseinvoices/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/purchaseinvoices/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
         <loc>Noneaccounting/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
         <loc>Noneaccounting/general_ledger/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/general_ledger/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/general_ledger/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
         <loc>Noneaccounting/gl_settlements_history/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/gl_settlements_history/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/gl_settlements_history/"/>
@@ -42,7 +42,7 @@
     </url>
     <url>
         <loc>Nonepurchases/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonepurchases/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/purchases/"/>
@@ -50,7 +50,7 @@
     </url>
     <url>
         <loc>Nonesales/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonesales/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/"/>
@@ -58,7 +58,7 @@
     </url>
     <url>
         <loc>Nonesales/salesinvoices/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonesales/salesinvoices/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/salesinvoices/"/>
@@ -66,7 +66,7 @@
     </url>
     <url>
         <loc>Nonesales/salesorders/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonesales/salesorders/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/salesorders/"/>
@@ -74,7 +74,7 @@
     </url>
     <url>
         <loc>Nonestart/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/"/>
@@ -82,7 +82,7 @@
     </url>
     <url>
         <loc>Nonestart/access-other-company/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/access-other-company/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/access-other-company/"/>
@@ -90,7 +90,7 @@
     </url>
     <url>
         <loc>Nonestart/create-db/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/create-db/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/create-db/"/>
@@ -98,15 +98,23 @@
     </url>
     <url>
         <loc>Nonestart/my-companies/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/my-companies/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/my-companies/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/my-companies/"/>
     </url>
     <url>
+        <loc>Nonestart/primary-settings/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonestart/primary-settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/primary-settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/primary-settings/"/>
+    </url>
+    <url>
         <loc>Nonestart/register/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/register/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/register/"/>
@@ -114,7 +122,7 @@
     </url>
     <url>
         <loc>Nonestart/user-settings/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/user-settings/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/user-settings/"/>
@@ -122,7 +130,7 @@
     </url>
     <url>
         <loc>Nonestart/user-setup-email/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/user-setup-email/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/user-setup-email/"/>
@@ -130,7 +138,7 @@
     </url>
     <url>
         <loc>Noneui/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneui/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/"/>
@@ -138,7 +146,7 @@
     </url>
     <url>
         <loc>Noneui/colorscheme/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneui/colorscheme/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/colorscheme/"/>
@@ -146,7 +154,7 @@
     </url>
     <url>
         <loc>Noneui/doc_sidepanel/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneui/doc_sidepanel/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/doc_sidepanel/"/>
@@ -154,7 +162,7 @@
     </url>
     <url>
         <loc>Noneversions/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/"/>
@@ -162,7 +170,7 @@
     </url>
     <url>
         <loc>Noneversions/0.45/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.45/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.45/"/>
@@ -170,7 +178,7 @@
     </url>
     <url>
         <loc>Noneversions/0.46/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.46/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.46/"/>
@@ -178,7 +186,7 @@
     </url>
     <url>
         <loc>Noneversions/0.47/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.47/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.47/"/>
@@ -186,7 +194,7 @@
     </url>
     <url>
         <loc>Noneversions/0.48/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.48/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.48/"/>
@@ -194,7 +202,7 @@
     </url>
     <url>
         <loc>Noneversions/0.49/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.49/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.49/"/>
@@ -202,15 +210,23 @@
     </url>
     <url>
         <loc>Noneversions/0.50/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.50/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.50/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.50/"/>
     </url>
     <url>
+        <loc>Noneversions/0.51/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.51/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.51/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.51/"/>
+    </url>
+    <url>
         <loc>Noneen/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
         <xhtml:link rel="alternate" hreflang="et" href="None"/>
@@ -218,7 +234,7 @@
     </url>
     <url>
         <loc>Noneen/purchaseinvoices/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/purchaseinvoices/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonepurchaseinvoices/"/>
@@ -226,7 +242,7 @@
     </url>
     <url>
         <loc>Noneen/accounting/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/"/>
@@ -234,7 +250,7 @@
     </url>
     <url>
         <loc>Noneen/accounting/general_ledger/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/general_ledger/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/general_ledger/"/>
@@ -242,7 +258,7 @@
     </url>
     <url>
         <loc>Noneen/accounting/gl_settlements_history/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/gl_settlements_history/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/gl_settlements_history/"/>
@@ -250,7 +266,7 @@
     </url>
     <url>
         <loc>Noneen/purchases/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/purchases/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonepurchases/"/>
@@ -258,7 +274,7 @@
     </url>
     <url>
         <loc>Noneen/sales/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonesales/"/>
@@ -266,7 +282,7 @@
     </url>
     <url>
         <loc>Noneen/sales/salesinvoices/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/salesinvoices/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonesales/salesinvoices/"/>
@@ -274,7 +290,7 @@
     </url>
     <url>
         <loc>Noneen/sales/salesorders/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/salesorders/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonesales/salesorders/"/>
@@ -282,7 +298,7 @@
     </url>
     <url>
         <loc>Noneen/start/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/"/>
@@ -290,7 +306,7 @@
     </url>
     <url>
         <loc>Noneen/start/access-other-company/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/access-other-company/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/access-other-company/"/>
@@ -298,7 +314,7 @@
     </url>
     <url>
         <loc>Noneen/start/create-db/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/create-db/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/create-db/"/>
@@ -306,15 +322,23 @@
     </url>
     <url>
         <loc>Noneen/start/my-companies/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/my-companies/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/my-companies/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/my-companies/"/>
     </url>
     <url>
+        <loc>Noneen/start/primary-settings/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/primary-settings/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonestart/primary-settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/primary-settings/"/>
+    </url>
+    <url>
         <loc>Noneen/start/register/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/register/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/register/"/>
@@ -322,7 +346,7 @@
     </url>
     <url>
         <loc>Noneen/start/user-settings/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/user-settings/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/user-settings/"/>
@@ -330,7 +354,7 @@
     </url>
     <url>
         <loc>Noneen/start/user-setup-email/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/user-setup-email/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/user-setup-email/"/>
@@ -338,7 +362,7 @@
     </url>
     <url>
         <loc>Noneen/ui/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneui/"/>
@@ -346,7 +370,7 @@
     </url>
     <url>
         <loc>Noneen/ui/colorscheme/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/colorscheme/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneui/colorscheme/"/>
@@ -354,7 +378,7 @@
     </url>
     <url>
         <loc>Noneen/ui/doc_sidepanel/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/doc_sidepanel/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneui/doc_sidepanel/"/>
@@ -362,7 +386,7 @@
     </url>
     <url>
         <loc>Noneen/versions/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/"/>
@@ -370,7 +394,7 @@
     </url>
     <url>
         <loc>Noneen/versions/0.45/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.45/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.45/"/>
@@ -378,7 +402,7 @@
     </url>
     <url>
         <loc>Noneen/versions/0.46/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.46/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.46/"/>
@@ -386,7 +410,7 @@
     </url>
     <url>
         <loc>Noneen/versions/0.47/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.47/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.47/"/>
@@ -394,7 +418,7 @@
     </url>
     <url>
         <loc>Noneen/versions/0.48/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.48/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.48/"/>
@@ -402,7 +426,7 @@
     </url>
     <url>
         <loc>Noneen/versions/0.49/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.49/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.49/"/>
@@ -410,15 +434,23 @@
     </url>
     <url>
         <loc>Noneen/versions/0.50/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.50/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.50/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.50/"/>
     </url>
     <url>
+        <loc>Noneen/versions/0.51/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.51/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.51/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.51/"/>
+    </url>
+    <url>
         <loc>Noneru/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
@@ -426,7 +458,7 @@
     </url>
     <url>
         <loc>Noneru/purchaseinvoices/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/purchaseinvoices/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/purchaseinvoices/"/>
@@ -434,7 +466,7 @@
     </url>
     <url>
         <loc>Noneru/accounting/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/accounting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/"/>
@@ -442,7 +474,7 @@
     </url>
     <url>
         <loc>Noneru/accounting/general_ledger/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/accounting/general_ledger/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/general_ledger/"/>
@@ -450,7 +482,7 @@
     </url>
     <url>
         <loc>Noneru/accounting/gl_settlements_history/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/accounting/gl_settlements_history/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/gl_settlements_history/"/>
@@ -458,7 +490,7 @@
     </url>
     <url>
         <loc>Noneru/purchases/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/purchases/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/purchases/"/>
@@ -466,7 +498,7 @@
     </url>
     <url>
         <loc>Noneru/sales/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sales/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/"/>
@@ -474,7 +506,7 @@
     </url>
     <url>
         <loc>Noneru/sales/salesinvoices/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sales/salesinvoices/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/salesinvoices/"/>
@@ -482,7 +514,7 @@
     </url>
     <url>
         <loc>Noneru/sales/salesorders/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sales/salesorders/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/sales/salesorders/"/>
@@ -490,7 +522,7 @@
     </url>
     <url>
         <loc>Noneru/start/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/"/>
@@ -498,7 +530,7 @@
     </url>
     <url>
         <loc>Noneru/start/access-other-company/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/access-other-company/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/access-other-company/"/>
@@ -506,7 +538,7 @@
     </url>
     <url>
         <loc>Noneru/start/create-db/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/create-db/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/create-db/"/>
@@ -514,15 +546,23 @@
     </url>
     <url>
         <loc>Noneru/start/my-companies/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/my-companies/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/my-companies/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonestart/my-companies/"/>
     </url>
     <url>
+        <loc>Noneru/start/primary-settings/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/primary-settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/primary-settings/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonestart/primary-settings/"/>
+    </url>
+    <url>
         <loc>Noneru/start/register/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/register/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/register/"/>
@@ -530,7 +570,7 @@
     </url>
     <url>
         <loc>Noneru/start/user-settings/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/user-settings/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/user-settings/"/>
@@ -538,7 +578,7 @@
     </url>
     <url>
         <loc>Noneru/start/user-setup-email/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/start/user-setup-email/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/start/user-setup-email/"/>
@@ -546,7 +586,7 @@
     </url>
     <url>
         <loc>Noneru/ui/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/ui/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/"/>
@@ -554,7 +594,7 @@
     </url>
     <url>
         <loc>Noneru/ui/colorscheme/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/ui/colorscheme/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/colorscheme/"/>
@@ -562,7 +602,7 @@
     </url>
     <url>
         <loc>Noneru/ui/doc_sidepanel/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/ui/doc_sidepanel/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/ui/doc_sidepanel/"/>
@@ -570,7 +610,7 @@
     </url>
     <url>
         <loc>Noneru/versions/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/"/>
@@ -578,7 +618,7 @@
     </url>
     <url>
         <loc>Noneru/versions/0.45/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.45/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.45/"/>
@@ -586,7 +626,7 @@
     </url>
     <url>
         <loc>Noneru/versions/0.46/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.46/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.46/"/>
@@ -594,7 +634,7 @@
     </url>
     <url>
         <loc>Noneru/versions/0.47/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.47/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.47/"/>
@@ -602,7 +642,7 @@
     </url>
     <url>
         <loc>Noneru/versions/0.48/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.48/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.48/"/>
@@ -610,7 +650,7 @@
     </url>
     <url>
         <loc>Noneru/versions/0.49/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.49/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.49/"/>
@@ -618,10 +658,18 @@
     </url>
     <url>
         <loc>Noneru/versions/0.50/</loc>
-        <lastmod>2026-02-19</lastmod>
+        <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.50/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.50/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.50/"/>
+    </url>
+    <url>
+        <loc>Noneru/versions/0.51/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.51/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.51/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.51/"/>
     </url>
 </urlset>
