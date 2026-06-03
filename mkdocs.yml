@@ -97,6 +97,8 @@ plugins:
                     name: English
                     site_name: Profit ERP User Guide
                     nav_translations:
+                        'Üldine': 'General'
+                        'Valuutad': 'Currencies'
                         'Töö alustamine': 'Getting started'
                         'Kasutajaliides': 'User interface'
                         'Müük': 'Sales'
@@ -106,6 +108,8 @@ plugins:
                     name: Русский
                     site_name: Руководство пользователя Profit ERP
                     nav_translations:
+                        'Üldine': 'Общее'
+                        'Valuutad': 'Валюты'
                         'Töö alustamine': 'Начало работы'
                         'Kasutajaliides': 'Пользовательский интерфейс'
                         'Müük': 'Продажи'
@@ -137,6 +141,8 @@ extra:
               
 nav:
       - 'index.md'
+      - Üldine:
+            - 'currencies/index.md'
       - 'Töö alustamine':
             - Töö alustamine: 'start/index.md'
             - 'start/register.md'

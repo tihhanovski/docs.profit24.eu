@@ -41,6 +41,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/accounting/gl_settlements_history/"/>
     </url>
     <url>
+        <loc>Nonecurrencies/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonecurrencies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/currencies/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/currencies/"/>
+    </url>
+    <url>
         <loc>Nonepurchases/</loc>
         <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
@@ -265,6 +273,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/accounting/gl_settlements_history/"/>
     </url>
     <url>
+        <loc>Noneen/currencies/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/currencies/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonecurrencies/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/currencies/"/>
+    </url>
+    <url>
         <loc>Noneen/purchases/</loc>
         <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
@@ -487,6 +503,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/accounting/gl_settlements_history/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/accounting/gl_settlements_history/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneaccounting/gl_settlements_history/"/>
+    </url>
+    <url>
+        <loc>Noneru/currencies/</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/currencies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/currencies/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonecurrencies/"/>
     </url>
     <url>
         <loc>Noneru/purchases/</loc>
