@@ -7,3 +7,14 @@ Juhul, kui soovid testida järgmist Profiti versiooni, võid minna aadressile [t
 Testime Profitit põhjalikult enne uuenduste väljalaskmist, kuid kui avastasid, et peale uuendust on midagi katki ja on vaja kiiresti midagi teha, võid proovida kasutajaliidese eelmist versiooni: [old.profit24.eu](https://old.profit24.eu)
 
 Vali vasakult versiooni, mille infoga tutvuda soovid.
+
+## Versioonid
+
+- [0.63](0.63.md)
+- [0.51](0.51.md)
+- [0.50](0.50.md)
+- [0.49](0.49.md)
+- [0.48](0.48.md)
+- [0.47](0.47.md)
+- [0.46](0.46.md)
+- [0.45](0.45.md)

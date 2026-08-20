@@ -8,4 +8,11 @@ We thoroughly test Profit before releasing updates, but if you find something br
 
 ## Versions
 
-[0.45](0.45.md)
+- [0.63](0.63.md)
+- [0.51](0.51.md)
+- [0.50](0.50.md)
+- [0.49](0.49.md)
+- [0.48](0.48.md)
+- [0.47](0.47.md)
+- [0.46](0.46.md)
+- [0.45](0.45.md)
