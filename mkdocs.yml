@@ -173,6 +173,7 @@ nav:
             - 'accounting/gl_settlements_history.md'
       - Versioonid:
             - versions/index.md
+            - versions/0.64.md
             - versions/0.63.md
             - versions/0.51.md
             - versions/0.50.md

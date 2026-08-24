@@ -249,6 +249,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.63/"/>
     </url>
     <url>
+        <loc>Noneversions/0.64/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.64/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.64/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.64/"/>
+    </url>
+    <url>
         <loc>Noneen/</loc>
         <lastmod>2026-08-24</lastmod>
         <changefreq>daily</changefreq>
@@ -497,6 +505,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.63/"/>
     </url>
     <url>
+        <loc>Noneen/versions/0.64/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.64/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.64/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.64/"/>
+    </url>
+    <url>
         <loc>Noneru/</loc>
         <lastmod>2026-08-24</lastmod>
         <changefreq>daily</changefreq>
@@ -743,5 +759,13 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.63/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.63/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.63/"/>
+    </url>
+    <url>
+        <loc>Noneru/versions/0.64/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/versions/0.64/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/versions/0.64/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Noneversions/0.64/"/>
     </url>
 </urlset>

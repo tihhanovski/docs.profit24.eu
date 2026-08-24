@@ -8,6 +8,7 @@ We thoroughly test Profit before releasing updates, but if you find something br
 
 ## Versions
 
+- [0.64](0.64.md)
 - [0.63](0.63.md)
 - [0.51](0.51.md)
 - [0.50](0.50.md)
