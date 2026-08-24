@@ -49,6 +49,22 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/currencies/"/>
     </url>
     <url>
+        <loc>Nonefaq/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/"/>
+    </url>
+    <url>
+        <loc>Nonefaq/tasaarveldused/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/tasaarveldused/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/tasaarveldused/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/tasaarveldused/"/>
+    </url>
+    <url>
         <loc>Nonepurchases/</loc>
         <lastmod>2026-08-24</lastmod>
         <changefreq>daily</changefreq>
@@ -305,6 +321,22 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/currencies/"/>
     </url>
     <url>
+        <loc>Noneen/faq/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/"/>
+    </url>
+    <url>
+        <loc>Noneen/faq/tasaarveldused/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/tasaarveldused/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/tasaarveldused/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/tasaarveldused/"/>
+    </url>
+    <url>
         <loc>Noneen/purchases/</loc>
         <lastmod>2026-08-24</lastmod>
         <changefreq>daily</changefreq>
@@ -559,6 +591,22 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/currencies/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/currencies/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonecurrencies/"/>
+    </url>
+    <url>
+        <loc>Noneru/faq/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/"/>
+    </url>
+    <url>
+        <loc>Noneru/faq/tasaarveldused/</loc>
+        <lastmod>2026-08-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/tasaarveldused/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/tasaarveldused/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/tasaarveldused/"/>
     </url>
     <url>
         <loc>Noneru/purchases/</loc>

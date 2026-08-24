@@ -103,6 +103,7 @@ plugins:
                         'Kasutajaliides': 'User interface'
                         'Müük': 'Sales'
                         'Ost': 'Purchases'
+                        'Küsimused': 'FAQ'
                         'Blogi': 'Blog'
                         'Versioonid': 'Versions'
                   - locale: ru
@@ -115,6 +116,7 @@ plugins:
                         'Kasutajaliides': 'Пользовательский интерфейс'
                         'Müük': 'Продажи'
                         'Ost': 'Покупки'
+                        'Küsimused': 'Вопросы'
                         'Blogi': 'Блог'
                         'Versioonid': 'Версии'
 
@@ -171,6 +173,9 @@ nav:
             - 'accounting/general_ledger.md'
 
             - 'accounting/gl_settlements_history.md'
+      - Küsimused:
+            - 'faq/index.md'
+            - 'faq/tasaarveldused.md'
       - Versioonid:
             - versions/index.md
             - versions/0.64.md
