@@ -5,6 +5,11 @@ Tasaarveldamine võimaldab omavahel tasaarveldada arve ja kreeditarve, näiteks 
 ## Kuidas tasaarveldada
 
 1. Loo kaks sama summaga dokumenti — arve ja kreeditarve (üks plussiga, teine miinusega) — ja kinnita need.
+
+    Pärast kinnitamist näitab maksmata arvete aruanne mõlemat rida:
+
+    ![Maksmata arvete aruanne](img/tasaarveldus1.jpg)
+
 2. Ava arvelduste aken.
 3. Lisa arveldused:
     - kandest: vastaval real klõpsa menüü nupul ja vali **Arveldused**
