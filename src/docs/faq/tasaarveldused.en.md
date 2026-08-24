@@ -1,20 +1,20 @@
 # Set-offs
 
-Set-off allows you to offset an invoice against a credit note, for example when both are for the same amount.
+Set-off allows you to link an invoice and a credit note, or a purchase invoice and a sales invoice. The linked obligations do not have to be for the same amount, and several obligations can be set off at once.
 
-## How to set off
+## A simple example
 
-1. Create two documents with the same amount — an invoice and a credit note (one positive, one negative) — and confirm them.
+For example, we have an invoice and a credit note, both for the same amount (one positive, one negative).
 
-    After confirming, the unpaid invoices report shows both rows:
+After confirming, the unpaid invoices report shows both rows:
 
-    ![Unpaid invoices report](img/tasaarveldus1.jpg)
+![Unpaid invoices report](img/tasaarveldus1.jpg)
 
-2. Open the settlements window.
-3. Add the settlements:
+1. Open the settlements window.
+2. Add the settlements:
     - from the entry: click the menu button on the row and select **Settlements**
     - from the invoice card: relations on the right side
-4. Link the documents and save.
+3. Link the documents and save.
 
 ## Result
 

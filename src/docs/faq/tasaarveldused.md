@@ -1,20 +1,20 @@
 # Tasaarveldused
 
-Tasaarveldamine võimaldab omavahel tasaarveldada arve ja kreeditarve, näiteks kui mõlemad on sama summa ulatuses.
+Tasaarveldamine võimaldab omavahel siduda arve ja kreeditarve või ostu ja müügiarve. Seotavad kohustused ei pea olema samas summas ja saab korraga tasaarveldada ka mitu kohustust.
 
-## Kuidas tasaarveldada
+## Lihtne näidis
 
-1. Loo kaks sama summaga dokumenti — arve ja kreeditarve (üks plussiga, teine miinusega) — ja kinnita need.
+Näiteks meil on olemas arve ja kreeditarve, mõlemad samas summas (üks plussiga, teine miinusega).
 
-    Pärast kinnitamist näitab maksmata arvete aruanne mõlemat rida:
+Pärast kinnitamist näitab maksmata arvete aruanne mõlemat rida:
 
-    ![Maksmata arvete aruanne](img/tasaarveldus1.jpg)
+![Maksmata arvete aruanne](img/tasaarveldus1.jpg)
 
-2. Ava arvelduste aken.
-3. Lisa arveldused:
+1. Ava arvelduste aken.
+2. Lisa arveldused:
     - kandest: vastaval real klõpsa menüü nupul ja vali **Arveldused**
     - arve kaardilt: paremal pool seosed
-4. Seo dokumendid omavahel ja salvesta.
+3. Seo dokumendid omavahel ja salvesta.
 
 ## Tulemus
 
