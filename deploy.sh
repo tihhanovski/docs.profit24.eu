@@ -8,4 +8,3 @@ echo "docs.profit24.eu" >> docs/CNAME
 git add docs
 git commit -m "Update docs $(date +%Y-%m-%d)"
 git push
-

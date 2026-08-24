@@ -2,7 +2,7 @@
 
 Profit allows you to export payments to an XML file.
 
-Payments marked with the **Export** checkbox and **confirmed** are exported.
+**Confirmed** payments marked with the **Export** checkbox are exported.
 
 ## Exporting payments
 
