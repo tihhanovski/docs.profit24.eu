@@ -6,9 +6,17 @@ Tasaarveldamine võimaldab omavahel siduda arve ja kreeditarve või ostu ja mü�
 
 Näiteks meil on olemas arve ja kreeditarve, mõlemad samas summas (üks plussiga, teine miinusega).
 
+Arve
+
+![Arve](img/tasaarveldused2.png)
+
+Kreeditarve
+
+![Kreeditarve](img/tasaarveldused3.png)
+
 Pärast kinnitamist näitab maksmata arvete aruanne mõlemat rida:
 
-![Maksmata arvete aruanne](img/tasaarveldus1.jpg)
+![Maksmata arvete aruanne](img/tasaarveldused1.png)
 
 1. Ava arvelduste aken.
 2. Lisa arveldused:
@@ -16,6 +24,6 @@ Pärast kinnitamist näitab maksmata arvete aruanne mõlemat rida:
     - arve kaardilt: paremal pool seosed
 3. Seo dokumendid omavahel ja salvesta.
 
-## Tulemus
+![Arvelduste aken](img/tasaarveldused4.png)
 
 Pärast tasaarvelduse salvestamist kaovad maksmata arvete aruandest mõlemad read — nii arve kui ka kreeditarve.
