@@ -102,6 +102,7 @@ plugins:
                         'Töö alustamine': 'Getting started'
                         'Kasutajaliides': 'User interface'
                         'Müük': 'Sales'
+                        'Ost': 'Purchases'
                         'Blogi': 'Blog'
                         'Versioonid': 'Versions'
                   - locale: ru
@@ -113,6 +114,7 @@ plugins:
                         'Töö alustamine': 'Начало работы'
                         'Kasutajaliides': 'Пользовательский интерфейс'
                         'Müük': 'Продажи'
+                        'Ost': 'Покупки'
                         'Blogi': 'Блог'
                         'Versioonid': 'Версии'
 
@@ -161,7 +163,9 @@ nav:
             - 'sales/salesinvoices.md'
             - 'sales/salesorders.md'
       - Ost:
-            - 'purchases.md'
+            - 'purchases/index.md'
+            - 'purchaseinvoices.md'
+            - 'purchases/tasumised.md'
       - Finants:
             - 'accounting/index.md'
             - 'accounting/general_ledger.md'
