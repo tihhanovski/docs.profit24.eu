@@ -101,6 +101,8 @@ plugins:
                         'Valuutad': 'Currencies'
                         'Töö alustamine': 'Getting started'
                         'Kasutajaliides': 'User interface'
+                        'Üldkasutatavad registrid': 'Common registries'
+                        'Firmad': 'Companies'
                         'Müük': 'Sales'
                         'Ost': 'Purchases'
                         'Küsimused': 'FAQ'
@@ -114,6 +116,8 @@ plugins:
                         'Valuutad': 'Валюты'
                         'Töö alustamine': 'Начало работы'
                         'Kasutajaliides': 'Пользовательский интерфейс'
+                        'Üldkasutatavad registrid': 'Общие регистры'
+                        'Firmad': 'Компании'
                         'Müük': 'Продажи'
                         'Ost': 'Покупки'
                         'Küsimused': 'Вопросы'
@@ -160,6 +164,8 @@ nav:
             - Kasutajaliides: 'ui/index.md'
             - 'ui/colorscheme.md'
             - 'ui/doc_sidepanel.md'
+      - Üldkasutatavad registrid:
+            - Firmad: 'registries/companies.md'
       - Müük: 
             - 'sales/index.md'
             - 'sales/salesinvoices.md'
