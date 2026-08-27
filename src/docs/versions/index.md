@@ -10,6 +10,7 @@ Vali vasakult versiooni, mille infoga tutvuda soovid.
 
 ## Versioonid
 
+- [0.65](0.65.md)
 - [0.64](0.64.md)
 - [0.63](0.63.md)
 - [0.51](0.51.md)
