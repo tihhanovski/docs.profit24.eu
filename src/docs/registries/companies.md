@@ -1,21 +1,21 @@
 # Firmad
 
-Firmade registris hoitakse kõiki ettevõtteid, kellega koos töötad – nii kliente kui ka hankijaid. Iga firma kaardile kogunevad kontaktandmed, pangakontod, müügiseaded ja muu vajalik info.
+Firmade registris hoitakse kõiki ettevõtteid, kellega koos töötad – nii kliente kui ka tarnijaid. Iga firma kaardile kogunevad kontaktandmed, pangakontod, müügiseaded ja muu vajalik info.
 
 ## Uue firma lisamine
 
 1. Ava menüüst **Firmad** ja vajuta uue firma loomise nuppu.
 2. Hakka kirjutama firma nime – programm pakub sobivaid nimesid ja otsib ka äriregistrist. Kui firma leitakse, täidab programm automaatselt registrikoodi, KM-koodi, aadressid, telefoni, e-posti ja kontaktisiku. Kui oled koodi ise sisestanud, jääb sinu kood alles.
-3. Uus firma on vaikimisi nii **klient** kui ka **hankija**. Kui firma on ainult üks neist, eemalda vastav linnuke.
+3. Uus firma on vaikimisi nii **klient** kui ka **tarnija**. Kui firma on ainult üks neist, eemalda vastav linnuke.
 
 ## Firma kaart
 
 Firma kaardil saad täita järgmisi osi:
 
-- **Müük** – müügiga seotud seaded;
+- **Müük** – müügiseaded (maksetähtaeg, viivise %, valuuta, hinnakiri, väljatrükivorm);
 - **Kontaktandmed** – juriidiline ja postiaadress, telefon jm. Postiaadress täidetakse juriidilisest aadressist automaatselt, kuni oled selle ise ära muutnud;
-- **Seadistus** – firma seaded;
-- **EDI** – e-arve andmed;
+- **Seadistus** – firma seaded (nt kliendi ja tarnija konto);
+- **EDI** – e-arve andmed (nt GLN, vaikimisi kaup ja konto e-arve või skännitud tšeki jaoks);
 - **Kontaktid** – kontaktisikud (read nummerdatakse automaatselt);
 - **Pangakontod** – firma pangakontod (read nummerdatakse automaatselt);
 - **Seotud osapooled** – seotud osapooled koos kehtivusajaga (alates–kuni);
@@ -26,8 +26,8 @@ Firma kaardil saad täita järgmisi osi:
 Firmade nimekirjas saad tulemusi filtreerida:
 
 - **Grupp** – näita ainult valitud grupi firmasid;
-- **Kliendid / Hankijad** – näita ainult kliente või ainult hankijaid;
-- **Aktiivsed / Suletud** – näita ainult aktiivseid või ainult suletud firmasid.
+- **Kliendid / Tarnijad** – näita ainult kliente või ainult tarnijaid;
+- **Aktiivsed firmad / Suletud firmad** – näita ainult aktiivseid või ainult suletud firmasid.
 
 Firmade valikud (näiteks arvel) kuvatakse koodi järjekorras.
 

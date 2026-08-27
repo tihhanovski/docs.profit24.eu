@@ -12,10 +12,10 @@ The Companies registry stores all companies you work with – both customers and
 
 The company card contains the following sections:
 
-- **Sales** – sales-related settings;
+- **Sales** – sales settings (payment term, interest %, currency, price list, print form);
 - **Contact details** – legal and postal address, phone, etc. The postal address is copied from the legal address automatically, until you change it yourself;
-- **Settings** – company settings;
-- **EDI** – e-invoice data;
+- **Settings** – company settings (e.g. customer and supplier accounts);
+- **EDI** – e-invoice data (e.g. GLN, default item and account for e-invoices or scanned receipts);
 - **Contacts** – contact persons (rows are numbered automatically);
 - **Bank accounts** – the company's bank accounts (rows are numbered automatically);
 - **Related parties** – related parties with validity period (from–until);
@@ -27,7 +27,7 @@ You can filter the list of companies:
 
 - **Group** – show only companies from the selected group;
 - **Customers / Suppliers** – show only customers or only suppliers;
-- **Active / Closed** – show only active or only closed companies.
+- **Active companies / Closed companies** – show only active or only closed companies.
 
 Company pickers (for example on an invoice) are displayed in code order.
 
