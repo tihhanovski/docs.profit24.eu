@@ -5,7 +5,7 @@ The Companies registry stores all companies you work with – both customers and
 ## Adding a new company
 
 1. Open **Companies** from the menu and click the button for creating a new company.
-2. Start typing the company name – the program suggests matching names and also searches the Business Registry. If the company is found, the program fills in the data automatically.
+2. Start typing the company name – the program suggests matching names and also searches the Business Registry. If the company is found, the program automatically fills in the registry code, VAT code, addresses, phone, e-mail and contact person. If you have entered the code yourself, your code is kept.
 3. A new company is both a **customer** and a **supplier** by default. If the company is only one of these, uncheck the corresponding box.
 
 ## Company card
@@ -13,13 +13,13 @@ The Companies registry stores all companies you work with – both customers and
 The company card contains the following sections:
 
 - **Sales** – sales-related settings;
-- **Contact details** – legal and postal address, phone, etc.;
+- **Contact details** – legal and postal address, phone, etc. The postal address is copied from the legal address automatically, until you change it yourself;
 - **Settings** – company settings;
 - **EDI** – e-invoice data;
 - **Contacts** – contact persons (rows are numbered automatically);
 - **Bank accounts** – the company's bank accounts (rows are numbered automatically);
 - **Related parties** – related parties with validity period (from–until);
-- **History** – history of changes to company data.
+- **History** – history of changes to company data. The history is loaded only when you open it, and you can click a row to open the corresponding source document.
 
 ## Searching and filters
 
@@ -38,7 +38,7 @@ For apartment buildings, a special form opens for the company, which in addition
 - **Apartment data** – apartment, building, address, tenant;
 - **Finance** – financial data;
 - **Bank accounts**;
-- **Measurers** – metering devices linked to the measured objects;
+- **Measurers** – metering devices linked to the measured objects. The list contains all measured objects; entering a meter number automatically enables the row;
 - **Invoice delivery** – settings for sending invoices.
 
 ## Merging companies

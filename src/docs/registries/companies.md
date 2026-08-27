@@ -5,7 +5,7 @@ Firmade registris hoitakse kõiki ettevõtteid, kellega koos töötad – nii kl
 ## Uue firma lisamine
 
 1. Ava menüüst **Firmad** ja vajuta uue firma loomise nuppu.
-2. Hakka kirjutama firma nime – programm pakub sobivaid nimesid ja otsib ka äriregistrist. Kui firma leitakse, täidab programm andmed automaatselt.
+2. Hakka kirjutama firma nime – programm pakub sobivaid nimesid ja otsib ka äriregistrist. Kui firma leitakse, täidab programm automaatselt registrikoodi, KM-koodi, aadressid, telefoni, e-posti ja kontaktisiku. Kui oled koodi ise sisestanud, jääb sinu kood alles.
 3. Uus firma on vaikimisi nii **klient** kui ka **hankija**. Kui firma on ainult üks neist, eemalda vastav linnuke.
 
 ## Firma kaart
@@ -13,13 +13,13 @@ Firmade registris hoitakse kõiki ettevõtteid, kellega koos töötad – nii kl
 Firma kaardil saad täita järgmisi osi:
 
 - **Müük** – müügiga seotud seaded;
-- **Kontaktandmed** – juriidiline ja postiaadress, telefon jm;
+- **Kontaktandmed** – juriidiline ja postiaadress, telefon jm. Postiaadress täidetakse juriidilisest aadressist automaatselt, kuni oled selle ise ära muutnud;
 - **Seadistus** – firma seaded;
 - **EDI** – e-arve andmed;
 - **Kontaktid** – kontaktisikud (read nummerdatakse automaatselt);
 - **Pangakontod** – firma pangakontod (read nummerdatakse automaatselt);
 - **Seotud osapooled** – seotud osapooled koos kehtivusajaga (alates–kuni);
-- **Ajalugu** – firma andmete muudatuste ajalugu.
+- **Ajalugu** – firma andmete muudatuste ajalugu. Ajalugu laaditakse alles siis, kui selle avad, ja klõpsuga saad avada vastava allikdokumendi.
 
 ## Otsimine ja filtrid
 
@@ -38,7 +38,7 @@ Korteriühistu majade puhul avaneb firmale spetsiaalne vorm, kus on lisaks müü
 - **Korteri andmed** – korter, maja, aadress, üürnik;
 - **Finants** – finantsandmed;
 - **Pangakontod**;
-- **Mõõtjad** – mõõteseadmed, mis on seotud mõõdetavate objektidega;
+- **Mõõtjad** – mõõteseadmed, mis on seotud mõõdetavate objektidega. Loendis on kõik mõõdetavad objektid; mõõtja numbri sisestamine lülitab rea automaatselt sisse;
 - **Arvete saatmine** – arvete edastamise seaded.
 
 ## Firmade kokkuliitmine
