@@ -43,7 +43,7 @@ For apartment buildings, a special form opens for the company, which in addition
 
 ## Merging companies
 
-If the same company has been added to the registry several times, you can merge the duplicates. The data is moved into one company and the other is removed.
+If the same company has been added to the registry several times, you can merge the duplicates. The data is moved into one company and the other is closed for using.
 
 1. Open the company you want to merge (the source company).
 2. Start the merge from the company card.

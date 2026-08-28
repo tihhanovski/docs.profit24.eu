@@ -43,7 +43,7 @@ Korteriühistu majade puhul avaneb firmale spetsiaalne vorm, kus on lisaks müü
 
 ## Firmade kokkuliitmine
 
-Kui sama firma on registrisse sattunud mitu korda, saad dublikaadid kokku liita. Andmed viiakse üle ühte firmasse ja teine eemaldatakse.
+Kui sama firma on registrisse sattunud mitu korda, saad dublikaadid kokku liita. Andmed viiakse üle ühte firmasse ja teine suletakse.
 
 1. Ava firma, mille soovid liita (lähtefirma).
 2. Käivita firma kaardilt kokkuliitmine.
