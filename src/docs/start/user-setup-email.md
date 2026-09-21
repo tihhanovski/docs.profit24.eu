@@ -24,3 +24,31 @@ Nüüd saab saata arved meiliga.
     Proovi esimest arvega meili saata alguses endale ja vaata seda kriitiliselt üle, et veenduda, et kõik on nii, nagu peab olema.
 
 ![Meili seadistused](img/email-setup.png)
+
+## Google'i (Gmaili) meilikonto seadistamine
+
+Kui soovid Profitis kirju saata Google'i (Gmaili) aadressilt, täida üldised meili seadistused (vt ülal) järgmiste väärtustega:
+
+- **Kasuta SMTP** – linnuke sisse.
+- **Meiliserver (SMTP)** – `smtp.gmail.com`
+- **Meiliserveri port** – võib jätta tühjaks; Gmail kasutab standardseid porte ja Profit valib need ise.
+- **Meiliserveri kasutaja** – sinu täielik Gmaili aadress koos `@gmail.com`-iga.
+- **Salasõna** – **NB!** See ei ole sinu Google'i konto tavaline parool, vaid spetsiaalselt loodud **rakenduse parool** (vt allpool).
+- **Turvalisus** – **TLS**.
+- **Saatja nimi** – nimi, mida saaja oma meiliprogrammis saatja juures näeb.
+- **Vaikimisi e-kirja teema** ja **E-kirja allkiri** – vastavalt vajadusele.
+- **Saada alati pimekoopia (BCC)** – soovi korral, näiteks saadetud kirjade arhiivimiseks.
+
+Seadistuste all on nupp **Saada proovi e-kiri**, millega saad kontrollida, kas saatmine õnnestub.
+
+### Rakenduse parooli loomine Google'i kontol
+
+Google ei luba tavalisel konto paroolil rakendustel SMTP kaudu kirju saata – selleks tuleb luua eraldi rakenduse parool:
+
+1. Mine oma Google'i konto seadetesse: [myaccount.google.com](https://myaccount.google.com)
+2. Veendu, et **kahefaktoriline autentimine (2FA)** on sisse lülitatud.
+3. Ava **Rakenduse paroolid**: [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+4. Sisesta rakendusele nimi, näiteks **Meilid Profitist**, ja loo parool.
+5. Google kuvab uue parooli – kopeeri see ja sisesta Profitis väljale **Salasõna**.
+
+See on Google'i pakutud turvaline viis, kuidas anda üksikutele rakendustele juurdepääs oma kontole ilma põhiparooli jagamata.

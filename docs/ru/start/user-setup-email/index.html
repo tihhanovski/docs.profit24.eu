@@ -720,6 +720,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Настройка электронной почты
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -736,6 +754,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Содержание">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#google-gmail" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Настройка почтового ящика Google (Gmail)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Настройка почтового ящика Google (Gmail)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#google" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Создание пароля приложения в аккаунте Google
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1839,6 +1904,42 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#google-gmail" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Настройка почтового ящика Google (Gmail)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Настройка почтового ящика Google (Gmail)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#google" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Создание пароля приложения в аккаунте Google
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1881,6 +1982,30 @@
 <p>Первое письмо лучше отправить самому себе и проверить, что тема, текст и вложения выглядят корректно.</p>
 </div>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../start/img/email-setup.png" data-desc-position="bottom"><img alt="Настройки почты" src="../../../start/img/email-setup.png"></a></p>
+<h2 id="google-gmail">Настройка почтового ящика Google (Gmail)</h2>
+<p>Чтобы отправлять письма из Profit с адреса Google (Gmail), используйте общие настройки почты (см. выше) со следующими значениями:</p>
+<ul>
+<li><strong>Использовать SMTP</strong> — включите этот переключатель.</li>
+<li><strong>Почтовый сервер (SMTP)</strong> — <code>smtp.gmail.com</code></li>
+<li><strong>Порт SMTP</strong> — можно оставить пустым; Gmail использует стандартные порты, и Profit выбирает их сам.</li>
+<li><strong>Пользователь SMTP</strong> — ваш полный адрес Gmail вместе с <code>@gmail.com</code>.</li>
+<li><strong>Пароль</strong> — <strong>NB!</strong> Это не обычный пароль вашего аккаунта Google, а отдельно созданный <strong>пароль приложения</strong> (см. ниже).</li>
+<li><strong>Защита</strong> — <strong>TLS</strong>.</li>
+<li><strong>Имя отправителя</strong> — имя, которое получатель видит рядом с отправителем.</li>
+<li><strong>Тема письма по умолчанию</strong> и <strong>Подпись письма</strong> — по необходимости.</li>
+<li><strong>Всегда отправлять BCC</strong> — при желании, например для архивирования отправленных писем.</li>
+</ul>
+<p>Под настройками есть кнопка <strong>Отправить тестовое письмо</strong>, чтобы проверить, что отправка работает.</p>
+<h3 id="google">Создание пароля приложения в аккаунте Google</h3>
+<p>Google не позволяет приложениям отправлять письма по SMTP с обычным паролем аккаунта — нужно создать отдельный пароль приложения:</p>
+<ol>
+<li>Откройте настройки аккаунта Google: <a href="https://myaccount.google.com">myaccount.google.com</a></li>
+<li>Убедитесь, что включена <strong>двухфакторная аутентификация (2FA)</strong>.</li>
+<li>Откройте <strong>Пароли приложений</strong>: <a href="https://myaccount.google.com/apppasswords">myaccount.google.com/apppasswords</a></li>
+<li>Введите название приложения, например <strong>Письма из Profit</strong>, и создайте пароль.</li>
+<li>Google покажет новый пароль — скопируйте его и введите в Profit в поле <strong>Пароль</strong>.</li>
+</ol>
+<p>Это безопасный способ, предложенный Google, дать отдельным приложениям доступ к вашему аккаунту, не передавая основной пароль.</p>
 
 
 

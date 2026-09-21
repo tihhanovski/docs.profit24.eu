@@ -720,6 +720,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Meili seadistamine
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -736,6 +754,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Sisukord">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Sisukord
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#googlei-gmaili-meilikonto-seadistamine" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Google'i (Gmaili) meilikonto seadistamine
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Google'i (Gmaili) meilikonto seadistamine">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rakenduse-parooli-loomine-googlei-kontol" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rakenduse parooli loomine Google'i kontol
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1839,6 +1904,42 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Sisukord
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#googlei-gmaili-meilikonto-seadistamine" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Google'i (Gmaili) meilikonto seadistamine
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Google'i (Gmaili) meilikonto seadistamine">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rakenduse-parooli-loomine-googlei-kontol" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rakenduse parooli loomine Google'i kontol
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1881,6 +1982,30 @@
 <p>Proovi esimest arvega meili saata alguses endale ja vaata seda kriitiliselt üle, et veenduda, et kõik on nii, nagu peab olema.</p>
 </div>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/email-setup.png" data-desc-position="bottom"><img alt="Meili seadistused" src="../img/email-setup.png"></a></p>
+<h2 id="googlei-gmaili-meilikonto-seadistamine">Google'i (Gmaili) meilikonto seadistamine</h2>
+<p>Kui soovid Profitis kirju saata Google'i (Gmaili) aadressilt, täida üldised meili seadistused (vt ülal) järgmiste väärtustega:</p>
+<ul>
+<li><strong>Kasuta SMTP</strong> – linnuke sisse.</li>
+<li><strong>Meiliserver (SMTP)</strong> – <code>smtp.gmail.com</code></li>
+<li><strong>Meiliserveri port</strong> – võib jätta tühjaks; Gmail kasutab standardseid porte ja Profit valib need ise.</li>
+<li><strong>Meiliserveri kasutaja</strong> – sinu täielik Gmaili aadress koos <code>@gmail.com</code>-iga.</li>
+<li><strong>Salasõna</strong> – <strong>NB!</strong> See ei ole sinu Google'i konto tavaline parool, vaid spetsiaalselt loodud <strong>rakenduse parool</strong> (vt allpool).</li>
+<li><strong>Turvalisus</strong> – <strong>TLS</strong>.</li>
+<li><strong>Saatja nimi</strong> – nimi, mida saaja oma meiliprogrammis saatja juures näeb.</li>
+<li><strong>Vaikimisi e-kirja teema</strong> ja <strong>E-kirja allkiri</strong> – vastavalt vajadusele.</li>
+<li><strong>Saada alati pimekoopia (BCC)</strong> – soovi korral, näiteks saadetud kirjade arhiivimiseks.</li>
+</ul>
+<p>Seadistuste all on nupp <strong>Saada proovi e-kiri</strong>, millega saad kontrollida, kas saatmine õnnestub.</p>
+<h3 id="rakenduse-parooli-loomine-googlei-kontol">Rakenduse parooli loomine Google'i kontol</h3>
+<p>Google ei luba tavalisel konto paroolil rakendustel SMTP kaudu kirju saata – selleks tuleb luua eraldi rakenduse parool:</p>
+<ol>
+<li>Mine oma Google'i konto seadetesse: <a href="https://myaccount.google.com">myaccount.google.com</a></li>
+<li>Veendu, et <strong>kahefaktoriline autentimine (2FA)</strong> on sisse lülitatud.</li>
+<li>Ava <strong>Rakenduse paroolid</strong>: <a href="https://myaccount.google.com/apppasswords">myaccount.google.com/apppasswords</a></li>
+<li>Sisesta rakendusele nimi, näiteks <strong>Meilid Profitist</strong>, ja loo parool.</li>
+<li>Google kuvab uue parooli – kopeeri see ja sisesta Profitis väljale <strong>Salasõna</strong>.</li>
+</ol>
+<p>See on Google'i pakutud turvaline viis, kuidas anda üksikutele rakendustele juurdepääs oma kontole ilma põhiparooli jagamata.</p>
 
 
 

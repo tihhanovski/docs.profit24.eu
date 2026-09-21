@@ -24,3 +24,31 @@ You can now email invoices directly from Profit.
     Send the first invoice email to yourself and verify that the message, attachments, and formatting look correct before contacting customers.
 
 ![Email settings](img/email-setup.png)
+
+## Setting up a Google (Gmail) mailbox
+
+To send emails from Profit using a Google (Gmail) address, use the general email settings (above) with the following values:
+
+- **Use SMTP** – enable this toggle.
+- **Mail server (SMTP)** – `smtp.gmail.com`
+- **SMTP port** – may be left empty; Gmail uses the standard ports and Profit selects them automatically.
+- **SMTP username** – your full Gmail address including `@gmail.com`.
+- **Password** – **NB!** This is not your regular Google account password, but a separately created **app password** (see below).
+- **Security** – **TLS**.
+- **Sender name** – the name shown next to the sender in the recipient's mail client.
+- **Default email subject** and **Email signature** – as needed.
+- **Always send BCC** – optionally, e.g. to archive outgoing messages.
+
+Below the settings there is a **Send test email** button to verify that sending works.
+
+### Creating an app password in your Google account
+
+Google does not allow applications to send mail over SMTP using your regular account password – you must create a separate app password:
+
+1. Go to your Google account settings: [myaccount.google.com](https://myaccount.google.com)
+2. Make sure **two-factor authentication (2FA)** is enabled.
+3. Open **App passwords**: [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+4. Enter a name for the application, e.g. **Emails from Profit**, and generate the password.
+5. Google shows the new password – copy it and enter it in Profit in the **Password** field.
+
+This is Google's secure way of giving individual applications access to your account without sharing your main password.

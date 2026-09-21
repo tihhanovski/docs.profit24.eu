@@ -720,6 +720,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Email configuration
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -736,6 +754,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-a-google-gmail-mailbox" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Setting up a Google (Gmail) mailbox
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setting up a Google (Gmail) mailbox">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-an-app-password-in-your-google-account" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Creating an app password in your Google account
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1839,6 +1904,42 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-a-google-gmail-mailbox" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Setting up a Google (Gmail) mailbox
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setting up a Google (Gmail) mailbox">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-an-app-password-in-your-google-account" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Creating an app password in your Google account
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1881,6 +1982,30 @@
 <p>Send the first invoice email to yourself and verify that the message, attachments, and formatting look correct before contacting customers.</p>
 </div>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../start/img/email-setup.png" data-desc-position="bottom"><img alt="Email settings" src="../../../start/img/email-setup.png"></a></p>
+<h2 id="setting-up-a-google-gmail-mailbox">Setting up a Google (Gmail) mailbox</h2>
+<p>To send emails from Profit using a Google (Gmail) address, use the general email settings (above) with the following values:</p>
+<ul>
+<li><strong>Use SMTP</strong> – enable this toggle.</li>
+<li><strong>Mail server (SMTP)</strong> – <code>smtp.gmail.com</code></li>
+<li><strong>SMTP port</strong> – may be left empty; Gmail uses the standard ports and Profit selects them automatically.</li>
+<li><strong>SMTP username</strong> – your full Gmail address including <code>@gmail.com</code>.</li>
+<li><strong>Password</strong> – <strong>NB!</strong> This is not your regular Google account password, but a separately created <strong>app password</strong> (see below).</li>
+<li><strong>Security</strong> – <strong>TLS</strong>.</li>
+<li><strong>Sender name</strong> – the name shown next to the sender in the recipient's mail client.</li>
+<li><strong>Default email subject</strong> and <strong>Email signature</strong> – as needed.</li>
+<li><strong>Always send BCC</strong> – optionally, e.g. to archive outgoing messages.</li>
+</ul>
+<p>Below the settings there is a <strong>Send test email</strong> button to verify that sending works.</p>
+<h3 id="creating-an-app-password-in-your-google-account">Creating an app password in your Google account</h3>
+<p>Google does not allow applications to send mail over SMTP using your regular account password – you must create a separate app password:</p>
+<ol>
+<li>Go to your Google account settings: <a href="https://myaccount.google.com">myaccount.google.com</a></li>
+<li>Make sure <strong>two-factor authentication (2FA)</strong> is enabled.</li>
+<li>Open <strong>App passwords</strong>: <a href="https://myaccount.google.com/apppasswords">myaccount.google.com/apppasswords</a></li>
+<li>Enter a name for the application, e.g. <strong>Emails from Profit</strong>, and generate the password.</li>
+<li>Google shows the new password – copy it and enter it in Profit in the <strong>Password</strong> field.</li>
+</ol>
+<p>This is Google's secure way of giving individual applications access to your account without sharing your main password.</p>
 
 
 
