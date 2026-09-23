@@ -179,6 +179,8 @@ nav:
             - 'accounting/general_ledger.md'
 
             - 'accounting/gl_settlements_history.md'
+      - Pank:
+            - Pangaväljavõtte reeglid: 'bank/rules.md'
       - Küsimused:
             - 'faq/index.md'
             - 'faq/tasaarveldused.md'
