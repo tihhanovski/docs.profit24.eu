@@ -81,4 +81,4 @@ Reegli funktsionaalsus jaguneb kaheks: **kirjete filtreerimine** (millistele vä
 Tegevuse valikud on: *Ignoreeritud, Kaardimakse, Kanne, Laekumine, Pangateenus, Tasumine*.
 
 !!! info
-    Moodul on aktiivses arenduses ja sinna lisanduvad pidevalt uued võimalused ja funktsioonid. Kui juhendist ei leia vastust, võtke ühendust aadressil [arendus@intellisoft.ee](mailto:arendus@intellisoft.ee) – võimalik, et funktsioon on juba olemas.
+    Moodul on aktiivses arenduses ja sinna lisanduvad pidevalt uued võimalused ja funktsioonid. Kui juhendist ei leia vastust, võtke ühendust aadressil [info@intellisoft.ee](mailto:info@intellisoft.ee) – võimalik, et funktsioon on juba olemas.
