@@ -70,7 +70,7 @@ The product card is divided into sections:
 - **Purchase prices** – suppliers' purchase prices;
 - **Finance** – sales and purchase accounts and VAT rates;
 - **Components** – components (recipe) of a finished or semi-finished product;
-- **History** – history of changes to product data (opens on click).
+- **History** – where and when the product was used (opens on click).
 
 The right-hand side panel contains:
 
@@ -100,7 +100,7 @@ In the **Components** section you define the recipe of a finished (or semi-finis
 
 ### History
 
-**History** opens on click and shows who changed the product data and when.
+**History** opens on click and shows **where and when the product was used** – on sales, purchase and stock documents (invoices, orders, waybills, stock entries, etc.).
 
 !!! info
     The module is under active development and new features are being added continuously. If you cannot find an answer in the guide, contact us at [info@intellisoft.ee](mailto:info@intellisoft.ee).

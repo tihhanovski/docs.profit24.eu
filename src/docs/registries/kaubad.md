@@ -70,7 +70,7 @@ Kauba kaart jaguneb jaotisteks:
 - **Ostuhinnad** – tarnijate ostuhinnad;
 - **Finants** – müügi- ja ostukonto ning käibemaksu määrad;
 - **Komponendid** – valmistoote või pooltoote koostisosad (retsept);
-- **Ajalugu** – kauba andmete muudatuste ajalugu (avaneb klõpsuga).
+- **Ajalugu** – kus ja millal antud kaupa kasutati (avaneb klõpsuga).
 
 Paremal külgpaneelil on:
 
@@ -100,7 +100,7 @@ Jaotises **Komponendid** määrad valmistoote (või pooltoote) retsepti – koos
 
 ### Ajalugu
 
-**Ajalugu** avaneb klõpsuga ja näitab, kes ja millal kauba andmeid muutis.
+**Ajalugu** avaneb klõpsuga ja näitab, **kus ja millal antud kaupa kasutati** – müügi-, ostu- ja laodokumentidel (arved, tellimused, saatelehed, laokanded jms).
 
 !!! info
     Moodul on aktiivses arenduses ja sinna lisanduvad pidevalt uued võimalused. Kui juhendist ei leia vastust, võtke ühendust aadressil [info@intellisoft.ee](mailto:info@intellisoft.ee).
