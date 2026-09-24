@@ -73,6 +73,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/tasaarveldused/"/>
     </url>
     <url>
+        <loc>Nonefeatures/added-articles/</loc>
+        <lastmod>2026-09-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefeatures/added-articles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/features/added-articles/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/features/added-articles/"/>
+    </url>
+    <url>
         <loc>Nonepurchases/</loc>
         <lastmod>2026-09-24</lastmod>
         <changefreq>daily</changefreq>
@@ -377,6 +385,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/tasaarveldused/"/>
     </url>
     <url>
+        <loc>Noneen/features/added-articles/</loc>
+        <lastmod>2026-09-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/features/added-articles/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefeatures/added-articles/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/features/added-articles/"/>
+    </url>
+    <url>
         <loc>Noneen/purchases/</loc>
         <lastmod>2026-09-24</lastmod>
         <changefreq>daily</changefreq>
@@ -679,6 +695,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="Noneru/faq/tasaarveldused/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/tasaarveldused/"/>
         <xhtml:link rel="alternate" hreflang="et" href="Nonefaq/tasaarveldused/"/>
+    </url>
+    <url>
+        <loc>Noneru/features/added-articles/</loc>
+        <lastmod>2026-09-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/features/added-articles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/features/added-articles/"/>
+        <xhtml:link rel="alternate" hreflang="et" href="Nonefeatures/added-articles/"/>
     </url>
     <url>
         <loc>Noneru/purchases/</loc>

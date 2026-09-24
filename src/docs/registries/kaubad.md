@@ -102,5 +102,9 @@ Jaotises **Komponendid** määrad valmistoote (või pooltoote) retsepti – koos
 
 **Ajalugu** avaneb klõpsuga ja näitab, **kus ja millal antud kaupa kasutati** – müügi-, ostu- ja laodokumentidel (arved, tellimused, saatelehed, laokanded jms).
 
+## Lisavõimalused
+
+- [Kaasaskäivad artiklid](../features/added-articles.md) – artikliga automaatselt kaasa lisatavad read dokumentidel.
+
 !!! info
     Moodul on aktiivses arenduses ja sinna lisanduvad pidevalt uued võimalused. Kui juhendist ei leia vastust, võtke ühendust aadressil [info@intellisoft.ee](mailto:info@intellisoft.ee).

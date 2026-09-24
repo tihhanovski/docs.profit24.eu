@@ -104,6 +104,8 @@ plugins:
                         'Üldkasutatavad registrid': 'Common registries'
                         'Firmad': 'Companies'
                         'Kaubad': 'Products'
+                        'Lisavõimalused': 'Additional features'
+                        'Kaasaskäivad artiklid': 'Added articles'
                         'Müük': 'Sales'
                         'Ost': 'Purchases'
                         'Küsimused': 'FAQ'
@@ -120,6 +122,8 @@ plugins:
                         'Üldkasutatavad registrid': 'Общие регистры'
                         'Firmad': 'Компании'
                         'Kaubad': 'Товары'
+                        'Lisavõimalused': 'Дополнительные возможности'
+                        'Kaasaskäivad artiklid': 'Сопутствующие товары'
                         'Müük': 'Продажи'
                         'Ost': 'Покупки'
                         'Küsimused': 'Вопросы'
@@ -184,6 +188,8 @@ nav:
             - 'accounting/gl_settlements_history.md'
       - Pank:
             - Pangaväljavõtte reeglid: 'bank/rules.md'
+      - Lisavõimalused:
+            - Kaasaskäivad artiklid: 'features/added-articles.md'
       - Küsimused:
             - 'faq/index.md'
             - 'faq/tasaarveldused.md'

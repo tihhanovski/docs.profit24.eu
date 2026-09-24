@@ -102,5 +102,9 @@ In the **Components** section you define the recipe of a finished (or semi-finis
 
 **History** opens on click and shows **where and when the product was used** – on sales, purchase and stock documents (invoices, orders, waybills, stock entries, etc.).
 
+## Additional features
+
+- [Added articles](../features/added-articles.md) – rows automatically added to documents together with an article.
+
 !!! info
     The module is under active development and new features are being added continuously. If you cannot find an answer in the guide, contact us at [info@intellisoft.ee](mailto:info@intellisoft.ee).
