@@ -19,18 +19,25 @@ Added articles work on sales, purchase and warehouse documents:
 
 1. Select an article on a document row (or change an existing one).
 2. If that article has added articles defined, the program inserts the corresponding rows **after** the parent row.
-3. The **quantity** of a generated row is calculated as: **parent row quantity × added article quantity**.
+3. The **quantity** of a generated row is calculated from the parent quantity: **parent row quantity × added article quantity**.
 4. Automatically added rows are ordinary rows – you can change them if needed (e.g. price, cost).
 
-## Manual changes
+## Changes while editing
 
-- When you change the parent row quantity, the program recalculates the added rows, but **the values you entered manually are kept** – they are merged back into the recalculated row.
-- Changing the parent row automatically updates only the fields that must follow the parent relationship (e.g. quantity).
+- When you change the parent row quantity, the quantities of the added rows are updated accordingly.
+- Values you entered manually (e.g. cost or price) are kept during these updates.
 - If you have changed the **quantity** of a generated row yourself, the program will no longer overwrite it automatically.
 
-## Deleting the parent row
+## Removing the parent row
 
-When the parent row is deleted, the rows that were automatically added through it are removed as well.
+When the parent row is removed, the added rows are **not deleted** – they become independent, ordinary rows that you can edit or delete separately.
+
+## Defining added articles
+
+Added articles are defined among an article's links, using the corresponding link type (added article).
+
+!!! note "Validity of the link"
+    The link between the parent row and the rows added through it exists while the document is **being composed**. When the document is saved, the generated rows become ordinary rows.
 
 !!! info
     The module is under active development and new features are being added continuously. If you cannot find an answer in the guide, contact us at [info@intellisoft.ee](mailto:info@intellisoft.ee).

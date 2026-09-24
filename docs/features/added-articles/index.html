@@ -1586,10 +1586,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#kuidas-see-kasutajale-avaldub" class="md-nav__link">
+  <a href="#kuidas-see-avaldub" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Kuidas see kasutajale avaldub
+        Kuidas see avaldub
       
     </span>
   </a>
@@ -1597,10 +1597,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#kasitsi-tehtud-muudatused" class="md-nav__link">
+  <a href="#muudatused-koostamise-ajal" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Käsitsi tehtud muudatused
+        Muudatused koostamise ajal
       
     </span>
   </a>
@@ -1608,10 +1608,21 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#pohirea-kustutamine" class="md-nav__link">
+  <a href="#pohirea-eemaldamine" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Põhirea kustutamine
+        Põhirea eemaldamine
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kaasaskaivate-artiklite-maaramine" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kaasaskäivate artiklite määramine
       
     </span>
   </a>
@@ -2140,10 +2151,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#kuidas-see-kasutajale-avaldub" class="md-nav__link">
+  <a href="#kuidas-see-avaldub" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Kuidas see kasutajale avaldub
+        Kuidas see avaldub
       
     </span>
   </a>
@@ -2151,10 +2162,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#kasitsi-tehtud-muudatused" class="md-nav__link">
+  <a href="#muudatused-koostamise-ajal" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Käsitsi tehtud muudatused
+        Muudatused koostamise ajal
       
     </span>
   </a>
@@ -2162,10 +2173,21 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#pohirea-kustutamine" class="md-nav__link">
+  <a href="#pohirea-eemaldamine" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Põhirea kustutamine
+        Põhirea eemaldamine
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kaasaskaivate-artiklite-maaramine" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kaasaskäivate artiklite määramine
       
     </span>
   </a>
@@ -2204,21 +2226,27 @@
 <li>ostuarved;</li>
 <li>saatelehed ja lao sissetulekud.</li>
 </ul>
-<h2 id="kuidas-see-kasutajale-avaldub">Kuidas see kasutajale avaldub</h2>
+<h2 id="kuidas-see-avaldub">Kuidas see avaldub</h2>
 <ol>
 <li>Vali dokumendi real artikkel (või muuda olemasolevat).</li>
 <li>Kui sellel artiklil on määratud kaasaskäivad artiklid, lisab programm põhirea <strong>järele</strong> automaatselt vastavad read.</li>
-<li>Genereeritud rea <strong>kogus</strong> arvutatakse valemi järgi: <strong>põhirea kogus × kaasaskäiva artikli kogus</strong>.</li>
+<li>Genereeritud rea <strong>kogus</strong> arvutatakse põhirea kogusest: <strong>põhirea kogus × kaasaskäiva artikli kogus</strong>.</li>
 <li>Automaatselt lisatud read on tavalised read – neid saab vajadusel muuta (nt hind, kulu).</li>
 </ol>
-<h2 id="kasitsi-tehtud-muudatused">Käsitsi tehtud muudatused</h2>
+<h2 id="muudatused-koostamise-ajal">Muudatused koostamise ajal</h2>
 <ul>
-<li>Kui muudad põhirea kogust, arvutab programm kaasaskäivad read uuesti, kuid <strong>sinu käsitsi sisestatud väärtused jäävad alles</strong> – need põimitakse ümberarvutatud reale tagasi.</li>
-<li>Põhirea muutmine uuendab automaatselt vaid neid välju, mis peavad põhireast sõltuma (nt kogus).</li>
-<li>Kui oled genereeritud rea <strong>kogust ise muutnud</strong>, ei kirjuta programm seda enam automaatselt üle.</li>
+<li>Kui muudad põhirea kogust, uuendatakse kaasaskäivate ridade kogused vastavalt.</li>
+<li>Käsitsi sisestatud väärtused (nt kulu või hind) jäävad muudatuste käigus alles.</li>
+<li>Kui oled genereeritud rea kogust ise muutnud, ei kirjuta programm seda enam automaatselt üle.</li>
 </ul>
-<h2 id="pohirea-kustutamine">Põhirea kustutamine</h2>
-<p>Põhirea kustutamisel eemaldatakse koos sellega ka antud rea kaudu automaatselt lisatud read.</p>
+<h2 id="pohirea-eemaldamine">Põhirea eemaldamine</h2>
+<p>Põhirea eemaldamisel kaasaskäivaid ridu <strong>ei kustutata</strong> – neist saavad iseseisvad tavalised read, mida saab eraldi muuta või kustutada.</p>
+<h2 id="kaasaskaivate-artiklite-maaramine">Kaasaskäivate artiklite määramine</h2>
+<p>Kaasaskäivad artiklid määratakse artikli seoste (linkide) hulgas, kus seose tüübiks on <strong>Kaasaskäiv artikkel</strong>.</p>
+<div class="admonition note">
+<p class="admonition-title">Seose kehtivus</p>
+<p>Seos põhirea ja selle kaudu automaatselt lisatud ridade vahel kehtib dokumendi <strong>koostamise ajal</strong>. Dokumendi salvestamisel muutuvad genereeritud read tavalisteks ridadeks.</p>
+</div>
 <div class="admonition info">
 <p class="admonition-title">Info</p>
 <p>Moodul on aktiivses arenduses ja sinna lisanduvad pidevalt uued võimalused. Kui juhendist ei leia vastust, võtke ühendust aadressil <a href="mailto:info@intellisoft.ee">info@intellisoft.ee</a>.</p>

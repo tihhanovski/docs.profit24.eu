@@ -1597,10 +1597,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#manual-changes" class="md-nav__link">
+  <a href="#changes-while-editing" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Manual changes
+        Changes while editing
       
     </span>
   </a>
@@ -1608,10 +1608,21 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#deleting-the-parent-row" class="md-nav__link">
+  <a href="#removing-the-parent-row" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Deleting the parent row
+        Removing the parent row
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defining-added-articles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Defining added articles
       
     </span>
   </a>
@@ -2151,10 +2162,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#manual-changes" class="md-nav__link">
+  <a href="#changes-while-editing" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Manual changes
+        Changes while editing
       
     </span>
   </a>
@@ -2162,10 +2173,21 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#deleting-the-parent-row" class="md-nav__link">
+  <a href="#removing-the-parent-row" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Deleting the parent row
+        Removing the parent row
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defining-added-articles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Defining added articles
       
     </span>
   </a>
@@ -2208,17 +2230,23 @@
 <ol>
 <li>Select an article on a document row (or change an existing one).</li>
 <li>If that article has added articles defined, the program inserts the corresponding rows <strong>after</strong> the parent row.</li>
-<li>The <strong>quantity</strong> of a generated row is calculated as: <strong>parent row quantity × added article quantity</strong>.</li>
+<li>The <strong>quantity</strong> of a generated row is calculated from the parent quantity: <strong>parent row quantity × added article quantity</strong>.</li>
 <li>Automatically added rows are ordinary rows – you can change them if needed (e.g. price, cost).</li>
 </ol>
-<h2 id="manual-changes">Manual changes</h2>
+<h2 id="changes-while-editing">Changes while editing</h2>
 <ul>
-<li>When you change the parent row quantity, the program recalculates the added rows, but <strong>the values you entered manually are kept</strong> – they are merged back into the recalculated row.</li>
-<li>Changing the parent row automatically updates only the fields that must follow the parent relationship (e.g. quantity).</li>
+<li>When you change the parent row quantity, the quantities of the added rows are updated accordingly.</li>
+<li>Values you entered manually (e.g. cost or price) are kept during these updates.</li>
 <li>If you have changed the <strong>quantity</strong> of a generated row yourself, the program will no longer overwrite it automatically.</li>
 </ul>
-<h2 id="deleting-the-parent-row">Deleting the parent row</h2>
-<p>When the parent row is deleted, the rows that were automatically added through it are removed as well.</p>
+<h2 id="removing-the-parent-row">Removing the parent row</h2>
+<p>When the parent row is removed, the added rows are <strong>not deleted</strong> – they become independent, ordinary rows that you can edit or delete separately.</p>
+<h2 id="defining-added-articles">Defining added articles</h2>
+<p>Added articles are defined among an article's links, using the corresponding link type (added article).</p>
+<div class="admonition note">
+<p class="admonition-title">Validity of the link</p>
+<p>The link between the parent row and the rows added through it exists while the document is <strong>being composed</strong>. When the document is saved, the generated rows become ordinary rows.</p>
+</div>
 <div class="admonition info">
 <p class="admonition-title">Info</p>
 <p>The module is under active development and new features are being added continuously. If you cannot find an answer in the guide, contact us at <a href="mailto:info@intellisoft.ee">info@intellisoft.ee</a>.</p>
