@@ -103,6 +103,7 @@ plugins:
                         'Kasutajaliides': 'User interface'
                         'Üldkasutatavad registrid': 'Common registries'
                         'Firmad': 'Companies'
+                        'Kaubad': 'Products'
                         'Müük': 'Sales'
                         'Ost': 'Purchases'
                         'Küsimused': 'FAQ'
@@ -118,6 +119,7 @@ plugins:
                         'Kasutajaliides': 'Пользовательский интерфейс'
                         'Üldkasutatavad registrid': 'Общие регистры'
                         'Firmad': 'Компании'
+                        'Kaubad': 'Товары'
                         'Müük': 'Продажи'
                         'Ost': 'Покупки'
                         'Küsimused': 'Вопросы'
@@ -166,6 +168,7 @@ nav:
             - 'ui/doc_sidepanel.md'
       - Üldkasutatavad registrid:
             - Firmad: 'registries/companies.md'
+            - Kaubad: 'registries/kaubad.md'
       - Müük: 
             - 'sales/index.md'
             - 'sales/salesinvoices.md'
