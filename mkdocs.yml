@@ -188,6 +188,7 @@ nav:
             - 'accounting/gl_settlements_history.md'
       - Pank:
             - Pangaväljavõtte reeglid: 'bank/rules.md'
+            - Panga impordi kanded: 'bank/entries.md'
       - Lisavõimalused:
             - Kaasaskäivad artiklid: 'features/added-articles.md'
       - Küsimused:
