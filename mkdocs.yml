@@ -196,6 +196,7 @@ nav:
             - 'faq/tasaarveldused.md'
       - Versioonid:
             - versions/index.md
+            - versions/0.66.md
             - versions/0.65.md
             - versions/0.64.md
             - versions/0.63.md
